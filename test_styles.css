@@ -1,0 +1,232 @@
+body{
+  background-color: #ffffff;
+}
+
+p{
+  color: #525252;
+}
+
+h3{
+  text-align: center;
+}
+
+.banner-container{
+  width: 100%;
+  height: 575px;
+}
+
+.pink-square{
+  width:200px;
+  height: 575px;
+  background: #f5587b;
+  position: absolute;
+  z-index: 0;
+}
+
+.pink-trapezoid {
+    width: 650px;
+  	height: 575px;
+  	transform: skew(20deg);
+  	background: #f5587b;
+    position: absolute;
+    z-index: -1;
+}
+
+.logo{
+  width: 375px;
+  height:375px;
+  margin-left: 125px;
+  margin-top: 75px;
+  z-index: -2;
+}
+
+.slogan{
+  position: absolute;
+  margin-top:475px;
+  margin-left: 35px;
+  z-index: 1;
+  color:#ffffff;
+}
+
+.carrot-pic{
+  width: auto;
+  height:575px;
+  z-index: -3;
+  margin-left: 500px;
+  position: absolute;
+}
+
+.features-container{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+}
+
+#jump-features{
+    padding: 2% 15% 0%;
+
+}
+
+i{
+  color: #f5587b;
+  margin: 20px;
+}
+
+i:hover{
+  color: #fa8282;
+}
+
+.row{
+  text-align: center;
+  margin-top: 70px;
+}
+
+.testimonial-container{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+}
+
+.testimonial-text{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 50px;
+  z-index: 3;
+  color: #ffffff;
+}
+
+.testimonial-text-2{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 50px;
+  z-index: 3;
+  color: #ffffff;
+}
+
+.testimonial-name{
+  position: absolute;
+  margin-top: 375px;
+  margin-left: 50px;
+  z-index: 3;
+  color: #ffffff;
+}
+
+.second-pink-square{
+  width: 450px;
+  height: 400px;
+  margin-top: 95px;
+  background: #f5587b;
+  position: absolute;
+  z-index: 1
+}
+
+.second-pink-trapezoid{
+  width: 475px;
+  height: 400px;
+  margin-top: 95px;
+  transform: skew(-20deg);
+  background: #f5587b;
+  position: absolute;
+  margin-left: 225px;
+  z-index: 2;
+}
+
+
+.testimonial-cake{
+  position: absolute;
+  width: 650px;
+  height: 495px;
+  margin-left: 615px;
+  margin-bottom: 200px;
+  z-index: 0;
+}
+
+
+.prices-container{
+  width: 100%;
+  height: 600px;
+  margin-top: 100px;
+  background-color: #ffffff;
+}
+
+.what-can-bake{
+  margin-top: 10%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.card{
+  margin-left: 2%;
+  margin-right: 20%;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.card-header{
+  margin-bottom: 3%;
+}
+
+.card-img-top{
+  height:200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 50%;
+}
+
+.order-container{
+  width: 100%;
+  height: 275px;
+  background-color: #f5587b;
+}
+
+.order-text{
+  margin-top: 4%;
+}
+
+#white-box{
+  width: 60%;
+  height: 200px;
+  background-color: #ffffff;
+  position: absolute;
+  text-align: center;
+  margin: 40px 250px 40px 250px;
+}
+
+form{
+  margin-left: 10%;
+  margin-top: 3%;
+}
+
+.title{
+  margin-top: 5%;
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+
+#submit_button{
+    margin-left: 37%;
+    margin-top: 0%;
+}
+
+.order{
+  margin-top: 1%;
+  margin-bottom: 1%
+}
+
+
+.contact-container{
+  width: 100%;
+  height: 100px;
+  background-color: #ffffff;
+  text-align: center;
+  margin: 3% auto;
+}
+
+.phone{
+  margin-top: 2%;
+}
